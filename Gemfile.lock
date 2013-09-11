@@ -124,9 +124,11 @@ DEPENDENCIES
   actionpack-action_caching
   actionpack-page_caching
   activerecord-deprecated_finders
+  builder
   coffee-rails (~> 4.0.0)
   jquery-rails
   less-rails
+  minitest
   pg
   protected_attributes
   rails (= 4.0.0)
@@ -134,4 +136,5 @@ DEPENDENCIES
   sass-rails (~> 4.0.0)
   therubyracer
   twitter-bootstrap-rails
+  tzinfo
   uglifier (>= 1.0.3)
